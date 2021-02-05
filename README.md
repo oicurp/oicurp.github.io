@@ -1,5 +1,5 @@
 # Chemometrics for Analytical Chemistry Using Python #
-
+---
 Repository here: [https://github.com/oicurp/Chemometrics/](https://github.com/oicurp/Chemometrics/)
 ---
 **Note: this might seem a lofty plan, as there're a lot to do. Currently only codes for I-MR chart are developped and stored under 4.6.Shewhart Charts.**
